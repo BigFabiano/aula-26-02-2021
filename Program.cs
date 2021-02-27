@@ -28,7 +28,7 @@ namespace aula_26_02_2021
 
             Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Vão todos para a diretoria!");
+            Console.WriteLine("Vão todos para a diretoria, exceto o Fabiano!");
             Console.Beep();
             Console.ResetColor();
 
